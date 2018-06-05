@@ -1,2 +1,0 @@
-# dynalearn
-Created with CodeSandbox
